@@ -7,4 +7,5 @@ print(movies)
 
 for each_item in movies:
     print(each_item)
+    print(each_item)
     
